@@ -1,0 +1,52 @@
+C:\Users\aluno\Documents\VitorHugoMiranda\Nova pasta\bingo\bingo\bin\Debug\bingo.exe.config
+C:\Users\aluno\Documents\VitorHugoMiranda\Nova pasta\bingo\bingo\bin\Debug\bingo.exe
+C:\Users\aluno\Documents\VitorHugoMiranda\Nova pasta\bingo\bingo\bin\Debug\bingo.pdb
+C:\Users\aluno\Documents\VitorHugoMiranda\Nova pasta\bingo\bingo\obj\Debug\bingo.csprojAssemblyReference.cache
+C:\Users\aluno\Documents\VitorHugoMiranda\Nova pasta\bingo\bingo\obj\Debug\bingo.Form1.resources
+C:\Users\aluno\Documents\VitorHugoMiranda\Nova pasta\bingo\bingo\obj\Debug\bingo.Properties.Resources.resources
+C:\Users\aluno\Documents\VitorHugoMiranda\Nova pasta\bingo\bingo\obj\Debug\bingo.csproj.GenerateResource.cache
+C:\Users\aluno\Documents\VitorHugoMiranda\Nova pasta\bingo\bingo\obj\Debug\bingo.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\VitorHugoMiranda\Nova pasta\bingo\bingo\obj\Debug\bingo.exe
+C:\Users\aluno\Documents\VitorHugoMiranda\Nova pasta\bingo\bingo\obj\Debug\bingo.pdb
+T:\2DS_PWFE\VitorHugoMiranda\c#\bingo\bingo\bingo\bin\Debug\bingo.exe.config
+T:\2DS_PWFE\VitorHugoMiranda\c#\bingo\bingo\bingo\bin\Debug\bingo.exe
+T:\2DS_PWFE\VitorHugoMiranda\c#\bingo\bingo\bingo\bin\Debug\bingo.pdb
+T:\2DS_PWFE\VitorHugoMiranda\c#\bingo\bingo\bingo\obj\Debug\bingo.csprojAssemblyReference.cache
+T:\2DS_PWFE\VitorHugoMiranda\c#\bingo\bingo\bingo\obj\Debug\bingo.Form1.resources
+T:\2DS_PWFE\VitorHugoMiranda\c#\bingo\bingo\bingo\obj\Debug\bingo.Properties.Resources.resources
+T:\2DS_PWFE\VitorHugoMiranda\c#\bingo\bingo\bingo\obj\Debug\bingo.csproj.GenerateResource.cache
+T:\2DS_PWFE\VitorHugoMiranda\c#\bingo\bingo\bingo\obj\Debug\bingo.csproj.CoreCompileInputs.cache
+T:\2DS_PWFE\VitorHugoMiranda\c#\bingo\bingo\bingo\obj\Debug\bingo.exe
+T:\2DS_PWFE\VitorHugoMiranda\c#\bingo\bingo\bingo\obj\Debug\bingo.pdb
+C:\Users\raphael.silva\OneDrive - Rio Verde Engenharia Construções LTDA\Documentos\Estudo\bingo\bingo\bingo\bin\Debug\bingo.exe.config
+C:\Users\raphael.silva\OneDrive - Rio Verde Engenharia Construções LTDA\Documentos\Estudo\bingo\bingo\bingo\bin\Debug\bingo.exe
+C:\Users\raphael.silva\OneDrive - Rio Verde Engenharia Construções LTDA\Documentos\Estudo\bingo\bingo\bingo\bin\Debug\bingo.pdb
+C:\Users\raphael.silva\OneDrive - Rio Verde Engenharia Construções LTDA\Documentos\Estudo\bingo\bingo\bingo\obj\Debug\bingo.csproj.AssemblyReference.cache
+C:\Users\raphael.silva\OneDrive - Rio Verde Engenharia Construções LTDA\Documentos\Estudo\bingo\bingo\bingo\obj\Debug\bingo.csproj.SuggestedBindingRedirects.cache
+C:\Users\raphael.silva\OneDrive - Rio Verde Engenharia Construções LTDA\Documentos\Estudo\bingo\bingo\bingo\obj\Debug\bingo.Form1.resources
+C:\Users\raphael.silva\OneDrive - Rio Verde Engenharia Construções LTDA\Documentos\Estudo\bingo\bingo\bingo\obj\Debug\bingo.Properties.Resources.resources
+C:\Users\raphael.silva\OneDrive - Rio Verde Engenharia Construções LTDA\Documentos\Estudo\bingo\bingo\bingo\obj\Debug\bingo.csproj.GenerateResource.cache
+C:\Users\raphael.silva\OneDrive - Rio Verde Engenharia Construções LTDA\Documentos\Estudo\bingo\bingo\bingo\obj\Debug\bingo.csproj.CoreCompileInputs.cache
+C:\Users\raphael.silva\OneDrive - Rio Verde Engenharia Construções LTDA\Documentos\Estudo\bingo\bingo\bingo\obj\Debug\bingo.exe
+C:\Users\raphael.silva\OneDrive - Rio Verde Engenharia Construções LTDA\Documentos\Estudo\bingo\bingo\bingo\obj\Debug\bingo.pdb
+C:\Users\aluno\Documents\raphael\bingo_finale\bingo_finale\bingo\bingo\bin\Debug\bingo.exe.config
+C:\Users\aluno\Documents\raphael\bingo_finale\bingo_finale\bingo\bingo\bin\Debug\bingo.exe
+C:\Users\aluno\Documents\raphael\bingo_finale\bingo_finale\bingo\bingo\bin\Debug\bingo.pdb
+C:\Users\aluno\Documents\raphael\bingo_finale\bingo_finale\bingo\bingo\obj\Debug\bingo.csprojAssemblyReference.cache
+C:\Users\aluno\Documents\raphael\bingo_finale\bingo_finale\bingo\bingo\obj\Debug\bingo.Form1.resources
+C:\Users\aluno\Documents\raphael\bingo_finale\bingo_finale\bingo\bingo\obj\Debug\bingo.Properties.Resources.resources
+C:\Users\aluno\Documents\raphael\bingo_finale\bingo_finale\bingo\bingo\obj\Debug\bingo.csproj.GenerateResource.cache
+C:\Users\aluno\Documents\raphael\bingo_finale\bingo_finale\bingo\bingo\obj\Debug\bingo.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\raphael\bingo_finale\bingo_finale\bingo\bingo\obj\Debug\bingo.exe
+C:\Users\aluno\Documents\raphael\bingo_finale\bingo_finale\bingo\bingo\obj\Debug\bingo.pdb
+C:\Users\Vitor Miranda\Documents\vitor\ProjetosGit\bingo_finaleaa\bingo_finale\bingo\bingo\bin\Debug\bingo.exe.config
+C:\Users\Vitor Miranda\Documents\vitor\ProjetosGit\bingo_finaleaa\bingo_finale\bingo\bingo\bin\Debug\bingo.exe
+C:\Users\Vitor Miranda\Documents\vitor\ProjetosGit\bingo_finaleaa\bingo_finale\bingo\bingo\bin\Debug\bingo.pdb
+C:\Users\Vitor Miranda\Documents\vitor\ProjetosGit\bingo_finaleaa\bingo_finale\bingo\bingo\obj\Debug\bingo.csproj.AssemblyReference.cache
+C:\Users\Vitor Miranda\Documents\vitor\ProjetosGit\bingo_finaleaa\bingo_finale\bingo\bingo\obj\Debug\bingo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vitor Miranda\Documents\vitor\ProjetosGit\bingo_finaleaa\bingo_finale\bingo\bingo\obj\Debug\bingo.Form1.resources
+C:\Users\Vitor Miranda\Documents\vitor\ProjetosGit\bingo_finaleaa\bingo_finale\bingo\bingo\obj\Debug\bingo.Properties.Resources.resources
+C:\Users\Vitor Miranda\Documents\vitor\ProjetosGit\bingo_finaleaa\bingo_finale\bingo\bingo\obj\Debug\bingo.csproj.GenerateResource.cache
+C:\Users\Vitor Miranda\Documents\vitor\ProjetosGit\bingo_finaleaa\bingo_finale\bingo\bingo\obj\Debug\bingo.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Miranda\Documents\vitor\ProjetosGit\bingo_finaleaa\bingo_finale\bingo\bingo\obj\Debug\bingo.exe
+C:\Users\Vitor Miranda\Documents\vitor\ProjetosGit\bingo_finaleaa\bingo_finale\bingo\bingo\obj\Debug\bingo.pdb
